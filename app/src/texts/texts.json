@@ -1,0 +1,10 @@
+{
+    "contact": {
+        "email": "kontakt@jagdplaner.at",
+        "subject": "Anfrage Jagdplaner"
+    },
+    "maintenancePage": {
+        "header": "Serverwartungen",
+        "information": "Leider führen wir im Moment Serverwartungen durch, daher ist die Applikation vorübergehen nicht erreichbar. Bitte versuches es später noch einmal. Sollte das Problem weiterhin bestehen kontaktiere uns bitte unter: "
+    }
+}
