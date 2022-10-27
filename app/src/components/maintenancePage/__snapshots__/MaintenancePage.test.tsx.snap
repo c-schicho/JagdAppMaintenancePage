@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MaintenancePage> rendering should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="maintenancePage"
+  >
+    <h1>
+      <i
+        class="fa-solid fa-wrench"
+      />
+      Serverwartungen
+      <i
+        class="fa-solid fa-hammer"
+      />
+    </h1>
+    <div>
+      <span>
+        Leider führen wir im Moment Serverwartungen durch, daher ist die Applikation vorübergehen nicht erreichbar. Bitte versuches es später noch einmal. Sollte das Problem weiterhin bestehen kontaktiere uns bitte unter: 
+      </span>
+      <a
+        href="mailto:kontakt@jagdplaner.at?subject=Anfrage Jagdplaner"
+      >
+        kontakt@jagdplaner.at
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

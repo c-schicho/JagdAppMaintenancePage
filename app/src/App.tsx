@@ -1,11 +1,6 @@
 import React from 'react';
+import MaintenancePage from './components/maintenancePage/MaintenancePage';
 
-function App() {
-    return (
-        <div>
-            <h1>Test Page</h1>
-        </div>
-    );
+export default function App(): JSX.Element {
+    return <MaintenancePage />;
 }
-
-export default App;

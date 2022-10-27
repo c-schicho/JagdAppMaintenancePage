@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ContactEmailLink> rendering should match snapshot 1`] = `
+<DocumentFragment>
+  <a
+    href="mailto:kontakt@jagdplaner.at?subject=Anfrage Jagdplaner"
+  >
+    kontakt@jagdplaner.at
+  </a>
+</DocumentFragment>
+`;
